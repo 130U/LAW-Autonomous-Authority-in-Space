@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Autonomous Authority in Space: Risk Tradeoffs and the Law of Delegation"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "When may a space system act without contemporaneous human approval, and which institution decides that it may? The Article, its PDF, an argument map, the proposal and the sources."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/LAW-Autonomous-Authority-in-Space"
+url: "https://www.theodoreoy.com/experience/autonomous-authority-in-space/"
+keywords:
+  - "space law"
+  - "Outer Space Treaty"
+  - "autonomous systems"
+  - "AI governance"
+  - "risk-risk analysis"
+  - "collision avoidance"
+preferred-citation:
+  type: unpublished
+  title: "Autonomous Authority in Space: Risk Tradeoffs and the Law of Delegation"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2024
+  url: "https://www.theodoreoy.com/experience/autonomous-authority-in-space/"
+  institution:
+    name: "Duke Law School"
+  notes: "Manuscript, Duke Law School, December 2024; revised November 2026."
